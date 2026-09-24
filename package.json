@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "\u0000",
+  "homepage": "https://github.com/Ulia-757/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/Ulia-757/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulia-757/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
