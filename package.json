@@ -6,12 +6,12 @@
   "bugs": {
     "url": "https://github.com/Ulia-757/hexlet-js/issues"
   },
+  "license": "ISC",
+  "author": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ulia-757/hexlet-js.git"
   },
-  "license": "ISC",
-  "author": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   },
   "dependencies": {
     "lodash": "^4.18.1"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.71.0"
   }
 }
