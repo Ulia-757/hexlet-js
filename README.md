@@ -9,3 +9,14 @@
 ```bash
 make install
 ```
+Проверка кода:
+
+```bash
+make lint
+```
+
+Исправление ошибок линтера:
+
+```bash
+make lint-fix
+```
